@@ -32,23 +32,25 @@
   - 浏览器 调试
   - VS Code 使用
   - 终端 基本使用
-  - 英语
+- Git 基础
 - JavaScript 基础
+  - 基础、API、原型链、this 之类的
   - 正则表达式
   - Promise，async、await
   - ES 模块化
 - TypeScript 基础
 - Node 基本概念
+- 英语 基础
 
-### 原理篇
+### 思想篇
 
-- 函数式编程
-- 响应式编程
+- 函数式编程（一小部分）
+- 响应式编程（Observable、发布订阅）
 - Stream 编程（RxJS）
 - MVVM（React）
 - 设计模式（OOP：Gof 23 种，FP：待定）
 - 算法基本（leetcode 专题：数组、字符串、递归、二分）
-- 网络（HTTP）
+- 网络（HTTP 等）
 
 ### Web 界面开发
 
@@ -62,27 +64,28 @@
   - Tailwind
   - CSS in JS
 - joi-browser（接口数据校验）
-- Cypress
 
-### Web 高级功能开发
+### Web 高级功能开发（库）
 
 - RxJS
 - Ramda、Immer
 - Jest
+- Cypress
 
 ### Node 开发
 
 - Node 基本编程
   - fs、path、util 等
-  - Node 调试
+- Node 调试
 - Webpack 基本使用
   - webpack-chain
-- glob、chalk、cross-env、yargs、rimraf
+- glob、chalk、cross-env、yargs、rimraf 等
 
 ### 部署
 
 - Docker
 - Sentry
+- kubectl
 - vercel
 
 ### 工程化配置
@@ -91,4 +94,4 @@
 - eslint
 - prettier
 - tsconfig
-- 浏览器插件整理
+- 编辑器、浏览器插件整理
