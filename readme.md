@@ -2,27 +2,16 @@
 
 ## 工作需求
 
-- （所有）新功能开发（用新技术栈 ts, react ...）
-- 迁移旧代码（用新技术栈重构，目前已完成整体架构升级，持续进行中...）
+- （所有）新功能/产品开发（用新技术栈 ts, react，antd, mobx , etc ...）
+- 迁移旧代码（用新技术栈重构，目前已完成整体架构 React 改造升级 ， 剩余部分持续进行中...）
 - 维护旧功能代码（修 bug）
-- 打包系统升级和维护（主要是webpack）
+- 前端系统运维（基于个人的掌握程度，参与前端产品和项目的构建发布测试和流水线系统 ）
 - 架构设计和改进（新技术栈完善，组件通讯设计）
 - 工程化改进（lint，TDD等技术架构的进一步优化完善）
 - Roadmap 和开发文档的维护
 
 ## 库
-
-待定，
-
-调研并**整合**重复的库
-
-分类所有 npm 包
-
-- 日期库：moment、dayjs
-- query 解析：qs、query-string
-- schema：normalizr、joi、json5
-- nanoid、uuid
-- crypto-js
+- 公司npm 库维护 
 
 ## 学习路线
 
@@ -39,7 +28,8 @@
   - Promise，async、await
   - ES 模块化
 - TypeScript 基础
-- Node 基本概念
+- 框架能力（React，MVVM， antd ）
+- Node 基础
 - 英语 基础
 
 ### 思想篇
@@ -84,12 +74,11 @@
   - webpack-chain
 - glob、chalk、cross-env、yargs、rimraf 等
 
-### 部署
+### 部署（前端可逐步深入了解和掌握，提升运维能力）
 
 - Docker
+- k8s
 - Sentry
-- kubectl
-- vercel
 
 ### 工程化配置
 
